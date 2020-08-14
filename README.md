@@ -1,1 +1,1 @@
-# first-projeckt
+# first-project
